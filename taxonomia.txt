@@ -1,0 +1,7 @@
+La clasificación en diferentes causas de muerte fue realizada usando la siguiente taxonomía sobre el campo "causa" de la base de datos de las actas defunción en el registro civil de la Ciudad de México de la ADIP.
+
+Neumonía atípica: neu.*atip.* 
+Neumonía viral: neu.*viral.*
+Insuficiencia respiratoria: insuf.*resp.*
+Covid: cov.*|coronavirus.*
+Otro: Ninguno de los anteriores.
